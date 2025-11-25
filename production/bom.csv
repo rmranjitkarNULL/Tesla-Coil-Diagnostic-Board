@@ -1,0 +1,69 @@
+Comment,Designator,Footprint,JLCPCB Part #
+100k,R25,R_0603_1608Metric,C14675
+HeaderMale_1x01_P2.54mm_Vertical,J16,PinHeader_1x01_P2.54mm_Vertical,NA
+LP5907MFX-3.3,"U8,U11,U9,U10",SOT-23-5,C22392692
+1.5k,"R9,R16,R18,R23,R7,R14",R_0603_1608Metric,C22843
+HeaderMale_1x01_P2.54mm_Vertical,J29,PinHeader_1x01_P2.54mm_Vertical,NA
+HeaderMale_1x01_P2.54mm_Vertical,J18,PinHeader_1x01_P2.54mm_Vertical,NA
+27p,"C16,C15",C_0603_1608Metric,C92670
+12MHz,Y1,Crystal_SMD_3225-4Pin_3.2x2.5mm,C9002
+100n,"C3,C31,C37,C29,C45,C28,C7,C9,C39,C23,C62,C2,C47,C19,C46,C8,C50,C56,C18,C14,C54,C41,C10,C43,C60,C25,C35,C11",C_0603_1608Metric,C14663
+Screw Terminal,"TC1,TC2","TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal",C3029316
+5.1k,"R6,R26,R27",R_0603_1608Metric,C23186
+10k,"R11,R10,R19,R12,R17,R22,R15",R_0603_1608Metric,C25804
+REF35330QDBVR,U4,SOT-23-6,C7467076
+HeaderMale_1x01_P2.54mm_Vertical,J24,PinHeader_1x01_P2.54mm_Vertical,NA
+HeaderMale_1x01_P2.54mm_Vertical,J28,PinHeader_1x01_P2.54mm_Vertical,NA
+900k,R24,R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,NA
+1u,"C26,C13,C53,C59,C42,C30,C38,C36,C21,C40,C34,C22,C44,C61,C55,C27,C24,C20",C_0603_1608Metric,C15849
+STM32F105R8T6,U1,LQFP-64_10x10mm_P0.5mm,C80986
+10u,"C32,C1,C33,C17",C_0603_1608Metric,C96446
+IF-E96,J8,IF-E96E_IFB,NA
+Green LED,"D1,D4",LED_0805_2012Metric,C25170728
+Screw Terminal,J22,"TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal",C3029316
+ADS7042xDCU,U14,VSSOP-8_2.3x2mm_P0.5mm,C701641
+Green LED,"D8,D7,D5,D3,D6",LED_0805_2012Metric,C25170728
+100n,C6,C_0603_1608Metric,C14663
+HeaderMale_1x01_P2.54mm_Vertical,J11,PinHeader_1x01_P2.54mm_Vertical,NA
+10u,L1,SM7850-100MT,C9182
+Screw Terminal,J2,"TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal",C3029316
+Green LED,D9,LED_0805_2012Metric,C25170728
+HeaderMale_1x01_P2.54mm_Vertical,J25,PinHeader_1x01_P2.54mm_Vertical,NA
+10k,R1,R_0603_1608Metric,C25804
+MAX31855KASA,"U6,U7",SOIC-8_3.9x4.9mm_P1.27mm,C52028
+62,R21,R_0805_2012Metric,C17784
+HeaderMale_1x01_P2.54mm_Vertical,J6,PinHeader_1x05_P2.54mm_Vertical,NA
+100k,"R20,R4",R_0603_1608Metric,C14675
+HeaderMale_1x01_P2.54mm_Vertical,J12,PinHeader_1x01_P2.54mm_Vertical,NA
+4.7u,"C48,C57,C12",C_0603_1608Metric,C19666
+105k,R2,R_0603_1608Metric,C16840
+13.3k,R5,R_0603_1608Metric,C25952
+HeaderMale_1x01_P2.54mm_Vertical,J30,PinHeader_1x01_P2.54mm_Vertical,NA
+1n,"C51,C49",C_0603_1608Metric,C1588
+AD8531ARTZ-REEL7,U15,SOT95P280X145-5N,C143905
+HeaderMale_1x01_P2.54mm_Vertical,J31,PinHeader_1x01_P2.54mm_Vertical,NA
+HeaderMale_1x01_P2.54mm_Vertical,J17,PinHeader_1x01_P2.54mm_Vertical,NA
+HeaderMale_1x01_P2.54mm_Vertical,J26,PinHeader_1x01_P2.54mm_Vertical,NA
+CUS520,D10,D_SOD-323,C324473
+TLV70245_SOT23-5,U13,SOT-23-5,C66350
+Screw Terminal,J7,"TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal",C3029316
+Screw Terminal,J3,"TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal",C3029316
+HeaderMale_1x01_P2.54mm_Vertical,J1,PinHeader_1x04_P2.54mm_Vertical,NA
+HeaderMale_1x01_P2.54mm_Vertical,J4,PinHeader_1x01_P2.54mm_Vertical,NA
+HeaderMale_1x01_P2.54mm_Vertical,"J14,J9,J10,J15",PinHeader_1x01_P2.54mm_Vertical,NA
+HeaderMale_1x01_P2.54mm_Vertical,J20,PinHeader_1x01_P2.54mm_Vertical,NA
+HeaderMale_1x01_P2.54mm_Vertical,J5,PinHeader_1x01_P2.54mm_Vertical,NA
+HeaderMale_1x01_P2.54mm_Vertical,J19,PinHeader_1x01_P2.54mm_Vertical,NA
+2.2k,R13,R_1206_3216Metric,C17948
+Push Button,SW2,SW_SPST_PTS647_Sx50,NA
+49.9,R3,R_0603_1608Metric,C23185
+2N3906,Q2,TO-92_Inline,C9809
+1n,"C5,C4",C_0603_1608Metric,C1588
+HeaderMale_1x01_P2.54mm_Vertical,J13,PinHeader_1x01_P2.54mm_Vertical,NA
+HeaderMale_1x01_P2.54mm_Vertical,J21,PinHeader_1x01_P2.54mm_Vertical,NA
+OP777ARMZ,U3,R_8_ADI,C690987
+HeaderMale_1x01_P2.54mm_Vertical,J27,PinHeader_1x01_P2.54mm_Vertical,NA
+TPS54302,U2,SOT-23-6,C311983
+ADS8866IDGSR,U5,DGS0010A_N,C455432
+AO3401A,Q1,SOT-23,C15127
+2,R8,R_1206_3216Metric,NA
